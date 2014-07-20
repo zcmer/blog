@@ -1,4 +1,4 @@
-blog
+zcmer的博客
 ====
 
-this is a test blog
+积累和沉淀，寻求下一个突破。
